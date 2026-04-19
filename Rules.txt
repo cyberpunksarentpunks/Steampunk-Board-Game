@@ -1,0 +1,321 @@
+STEAMPUNK BOARD GAME NOTES  — Ideas — 
+WIN CONDITION = 20 win points
+ Walking = 1k Dice  Vehicle attack = 4+ na 6k Types of Airships: 	Scout =  2d6+2, range = 1
+	Warship = 1d6+2, range = 2 	TradeShip = 1d6, range = 1  Money = gears(Ozubená kolečka) Při průchodu startem se dostane 2 gears   Stats = Health, Fuel, Ammo   —MAP—  City: 	Cities offer up to 3 cards to buy 	- weapons (machine guns, cannons) 	- parts (airship parts like a board, motor, weapon) 	- Creating Contracts        Factory: 	Can build an airship 	Can create an ammunition  Harbor: 	Can be used to repair an airship ————————————————————————————————
+Loď má 3 součástky:
+*  trup (život)
+*  motor (pohyb)
+*  zbraně (combat)
+* 
+ útok funguje takto:
+1. hod na zásah (např. 4+)
+2. pokud hit:
+    * hodíš 1 kostku na “zásah komponenty”
+výsledek:
+* 1–2 = motor
+* 3–4 = zbraně
+* 5–6 = trup
+
+ efekt po zásahu:
+* trup → ztrácíš HP (hlavní survival)
+* motor → menší pohyb
+* zbraně → horší útok
+*  Warship bonus = Stun for 1 round
+*  Tradeship bonus = Stealing money from hitted player
+
+ SCOUT (tempo + únik)
+ styl: rychlý, taktický, vyhýbá se fightům
+Bonusy:
+*  uhlí je efektivnější
+    * +2 pohyb → +3 pohyb
+*  úhybný manévr:
+    * místo +1 → +2 k obtížnosti zásahu
+Nevýhoda:
+*  šrot je horší:
+    * oprava stojí 2 šrot místo 1
+ logika:
+* přežívá tím, že není trefený
+* ne tím, že se opravuje
+
+ WARSHIP (combat + dominance)
+ styl: jde do fightu a drží pozice
+Bonusy:
+ šrot je silnější:
+    * oprava = 2 HP místo 1
+ útok:
+    * +1 k hodu zdarma (nebo levnější za šrot)
+Nevýhoda:
+*  uhlí je horší:
+    * boost pohybu jen +1 místo +2
+    * nebo stojí 2 uhlí
+ logika:
+* pomalý, ale těžko zabitelný
+* chce bojovat, ne utíkat
+
+TRADE SHIP (ekonomika + sustain)
+ styl: farma, přežívání, resource management
+Bonusy:
+* při vstupu do města:
+    * +1 uhlí nebo +1 šrot zdarma
+* může držet víc:
+    * max 4 uhlí / 4 šrot
+Nevýhoda:
+*  combat:
+    * útok má -1 k hodu
+* nebo:
+    * nemůže použít “vylepšený útok”
+ logika:
+* není bojovník
+* ale má zdroje na přežití
+
+  Navržené suroviny (2–3 max)
+ Uhlí (fuel / steam)
+ akce navíc / manipulace s pohybem / obrana
+Použití:
+* +2 pohyb (boost)
+* nebo:
+* při útoku na tebe → útočník potřebuje o +1 vyšší hod (to cos vymyslel ✔)
+* nebo:
+* extra manévr (uhnout, přehodit kostku)
+ role: tempo + přežití
+
+ Šrot (scrap)
+ improvizace / opravy / hacky
+Použití:
+* oprav 1 HP nebo komponentu
+* Nouzový štít
+* Vylepšený útok
+ role: stabilita + adaptace
+ Max surovin:
+* 3 uhlí
+* 3 šrot
+* Trade Ship může mít 4ks od každé suroviny
+——————————————————————————————————— 20 KONTRAKTŮ (hotový balíček)
+ DELIVERY (8 karet)
+1. Rychlá zásilka Doruč zboží do libovolného města vzdáleného min. 8 polí → 3 VP + 2 peníze
+
+1. Expresní převoz Doruč zboží během 2 kol → 4 VP
+
+1. Dlouhá trasa Projdi přes start a doruč do města → 5 VP
+
+1. Nebezpečná zásilka Projdi přes nebezpečnou zónu a doruč → 4 VP + 1 šrot
+
+1. Dvojitý transport Navštiv 2 různá města po sobě → 3 VP
+
+1. Zpožděná zásilka Doruč kdykoliv (bez limitu) → 2 VP + 3 peníze
+
+1. Palivová distribuce Navštiv 2 pole s palivem → 3 VP + 1 uhlí
+
+1. Tajná zásilka Doruč bez toho, aby tě někdo zasáhl → 5 VP
+
+
+💣 COMBAT (6 karet)
+1. Lovec odměn Zasáhni jiného hráče → 2 VP + 1 šrot
+
+1. Sabotér Způsob hráči ztrátu tahu → 3 VP
+
+1. Stíhač Zasáhni hráče, který má více VP než ty → 4 VP
+
+1. Dominance Zasáhni 2 různé hráče → 4 VP
+
+1. Přesná rána Zasáhni hráče bez použití bonusů → 3 VP
+
+1. Blokáda Zasáhni hráče v blízkosti města → 3 VP
+
+
+ CONTROL (4 karty)
+1. Kontrola oblasti Zůstaň na stejném poli 1 celé kolo → 3 VP
+
+1. Městská dominance Navštiv stejné město 2× → 3 VP
+
+1. Obsazení uzlu Zastav se na 2 různých speciálních polích → 3 VP
+
+1. Strategická pozice Zůstaň v nebezpečné zóně 1 kolo → 4 VP
+
+
+ RISK / SPECIAL (2 karty)
+1. Hazardér Projdi 2 nebezpečné zóny → 4 VP + 2 šrot
+
+1. Efektivní kapitán Během jednoho kola:
+* pohyb + útok + interakce → 5 VP
+——————————————————————————————
+ MOTORY (10 karet)
+1. Základní parní motor +0 (žádný bonus)
+2. Lehký motor +1 k pohybu
+3. Turbo pohon OK +2 pohyb, ale stojí +1 uhlí při použití
+4. Úsporný motor pohyb beze změny, ale -1 spotřeba uhlí
+5. Nestabilní motor +3 pohyb, ale při hodu 1 → ztrácíš tah
+6. Manévrovací trysky můžeš změnit směr / znovu hodit pohyb
+7. Tichý motor nepřátelé mají -1 range proti tobě (max 1 kolo)
+8. Přetížený motor +2 pohyb, ale po použití nemůžeš další kolo boostovat
+9. Reverzní systém můžeš se vrátit o 3 pole zpět (taktika)
+10. Experimentální pohon hoď 1d6 → tolik přidáš k pohybu
+
+TRUPY (10 karet)
+1. Lehký trup 1 HP, +1 pohyb
+2. Standardní trup 2 HP
+3. Těžký pancíř 4 HP, ale -1 pohyb
+4. Zesílený trup +1 HP navíc
+5. Samoopravný trup na konci kola 50% šance opravit 1 HP
+6. Modulární trup při zničení neztrácíš celou loď, jen část. Zahodíš celou komponentu když je hp na 0
+7. Reaktivní pancíř ignoruje první zásah
+8. Obchodní trup - při průchodu startem dostaneš více peněz
+9. Energetický štít 1× za kolo můžeš ignorovat zásah (za šrot)
+10. Experimentální trup při zásahu hodíš kostkou:
+* 1–3 normální damage
+* 4–6 žádný damage
+
+ZBRANĚ (10 karet)
+1. Základní kanón bez bonusu
+2. Dlouhý kanón +1 range
+3. Přesný kanón +1 k hodu na zásah
+4. Rychlopalba můžeš útočit 2× (ale -1 k hodu)
+5. Těžký kanón +1 damage (např. 2 HP)
+6. EMP výboj zásah = soupeř nemůže použít uhlí příští kolo
+Zpomalující střela zásah = -2 pohyb soupeře	
+Sabotážní munice zásah = poškodí komponentu místo HP. Hráč si vybere jakou. Stojí 1 šrot	
+Nestabilní zbraň +2 k hodu, ale při failu poškodíš sebe	
+Experimentální dělo hodíš 1d6:	
+* 1–2 miss
+* 3–4 normální hit
+* 5–6 silný hit
+
+výměna komponenty =
+* zaplatíš 1 šrot
+* zahodíš starou kartu
+ ————————————————————————————————————— 
+ Funkce továrny (drž to na 3 věcech max)
+1)  Stavba lodě (hlavní funkce)
+ postavíš loď ze 3 slotů:
+* trup
+* motor
+* zbraň
+pravidlo:
+* zaplatíš:
+    * 2 šrot
+    * 1 uhlí
+→ aktivuješ loď
+ bez továrny loď neexistuje
+
+2)  Upgrade komponent
+ vylepšíš existující kartu
+např.:
+* +1 pohyb na motor
+* +1 k hodu na zbraň
+cena:
+* 1 šrot + 1 uhlí
+	 limit:
+* max 1 upgrade na kartu
+
+3)  Speciální moduly (volitelné, ale silné)
+ jednorázové nebo pasivní efekty
+např.:
+* “první útok má +1”
+* “jednou za hru ignoruj zásah”
+cena:
+* drahé (2–3 šrot)
+
+ A co ta munice?
+ může tam být, ale jako doplněk:
+ Munice (optional)
+* +1 k útoku
+* nebo speciální efekt
+	ale:
+* nesmí být hlavní důvod jít do továrny
+
+—————————————————————————————————————
+  Definuj “pěší mód”
+ Pěší hráč:
+* pohyb: 1d6
+* nemá zbraň
+* nemá HP jako loď
+ALE:
+ má výhody:
+* levnější akce (nebo zdarma interakce)
+* těžší zásah
+* může se schovávat / ignorovat některé útoky
+
+ Combat: loď vs pěšák
+ pravidlo č.1:
+pěšák nejde snadno zabít
+
+ Varianta (doporučená):
+ loď útočí na pěšáka:
+* potřebuje vyšší hod:
+    * místo 4+ → 5+ nebo 6
+* při zásahu:
+    * pěšák:
+        * ztratí tah
+        * nebo dropne surovinu
+ NE:
+* okamžitá smrt
+* NE velký damage
+
+ pěšák vs loď:
+* nemůže klasicky útočit
+ALE může:
+* sabotovat (za šrot)
+* ukrást surovinu
+* zablokovat pohyb
+
+—————————————————————————————————————
+
+EVENT KARTY – 40 KS (rozděleno do typů zón)
+ INDUSTRIAL ZÓNA (10 karet)
+(technika, šrot, továrny, riziko exploze)
+1.  Výbuch kotle Ztratíš 1 HP nebo 1 komponent (náhodně)
+2.  Náhradní díly Získej 1 šrot
+3.  Opotřebení Ztrácíš 1 pohyb příští kolo
+4.  Opuštěná dílna Můžeš získat 1 random součástku (nebo ji ignorovat)
+5.  Přetlak páry Pohyb +2, ale pokud hodíš 1 → zranění
+6.  Nouzové opravy Oprav 1 HP nebo komponent
+7.  Past ve strojích Ztrácíš tah
+8.  Generátor energie Získej 1 uhlí
+9.  Magnetické pole Hráči Nemůžou použít zbraně toto kolo až do 5 políček
+10.  Sabotáž Jeden jiný hráč v dosahu ztrácí 1 komponent
+
+ FUEL / OIL ZÓNA (10 karet)
+(rychlost, palivo, pohyb)
+1.  Zásoba paliva Získej 1–2 uhlí
+2.  Silný vítr Pohyb +3
+3.  Bouře Hoď znovu pohyb, musíš použít horší výsledek
+4.  Únik páry Ztrácíš 1 uhlí
+5.  Turboproud Další tah máš +2 pohyb
+6.  Zamrzlé potrubí Nemůžeš se hýbat
+7.  Přetlak Buď +1 pohyb, nebo ztráta HP
+8.  Sabotovaný tanker Získej 2 šrot
+9.  Re-route Teleport na sousední pole
+10.  Náhlý vítr Všichni hráči se posunou o 1 pole
+
+ WAR ZÓNA (10 karet)
+(PvP, konflikty, riziko)
+1. Přepadení Jiný hráč v dosahu → musíš ho napadnout
+2.  Ostřelování Ztrácíš 1 HP, pokud nevyužiješ šrot
+3.  Piráti Ztrácíš 1 surovinu
+4.  Duel výzva Musíš zaútočit na nejbližšího hráče
+5.  Exploze munice Všichni v okolí ztrácí HP
+6.  Obranná pozice +1 k obraně toto kolo
+7.  Přesná střela Tvůj další útok má +1
+8.  Chaos bitvy Všichni hráči v zóně se navzájem mohou napadnout
+9.  Krvavý lov Pokud někoho zasáhneš → +2 VP
+10.  Zakázaná zóna Nemůžeš použít uhlí
+
+NEBEZPEČNÁ ZÓNA (10 karet)
+(random, risk/reward)
+1.  Ruiny stroje Získej 1 šrot nebo ztráta HP
+2.  Hazard Hoď kostkou:
+* 1–2 ztráta
+* 3–4 nic
+* 5–6 odměna
+1.  Experimentální plyn +2 pohyb, ale -1 HP
+2.  Ztracená trasa Změň směr pohybu
+3.  Opustěné město Získej 1 součástku
+4.  Elektrická bouře Ztrácíš 1 komponent
+5.  Časová anomálie Opakuj tah
+6.  Zřícení Zablokuje pole (nikdo tam nemůže 1 kolo)
+7.  Propad Teleport na náhodné pole
+8. Ztracený poklad Získej 2 VP nebo 1 součástku
+
+ —CARDS—  Repair kit - if hitted by other player, you can use it and start moving without waiting
+
+   
