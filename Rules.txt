@@ -1,7 +1,8 @@
 STEAMPUNK BOARD GAME NOTES  — Ideas — 
 WIN CONDITION = 20 win points
  Walking = 1k Dice  Vehicle attack = 4+ na 6k Types of Airships: 	Scout =  2d6+2, range = 1
-	Warship = 1d6+2, range = 2 	TradeShip = 1d6, range = 1  Money = gears(Ozubená kolečka) Při průchodu startem se dostane 2 gears   Stats = Health, Fuel, Ammo   —MAP—  City: 	Cities offer up to 3 cards to buy 	- weapons (machine guns, cannons) 	- parts (airship parts like a board, motor, weapon) 	- Creating Contracts        Factory: 	Can build an airship 	Can create an ammunition  Harbor: 	Can be used to repair an airship ————————————————————————————————
+	Warship = 1d6+2, range = 2 	TradeShip = 1d6, range = 1  Money = gears(Ozubená kolečka) Při průchodu startem se dostane 2 gears   Stats = Health, Fuel, Ammo   —MAP—  City: 	Cities offer up to 3 cards to buy 	- weapons (machine guns, cannons) 	- parts (airship parts like a board, motor, weapon) 	- Creating Contracts        Factory: 	Can build an airship 	Can create an ammunition  Harbor: 	Can be used to repair an airship 
+————————————————————————————————
 Loď má 3 součástky:
 *  trup (život)
 *  motor (pohyb)
@@ -90,7 +91,8 @@ Použití:
 * 3 uhlí
 * 3 šrot
 * Trade Ship může mít 4ks od každé suroviny
-——————————————————————————————————— 20 KONTRAKTŮ (hotový balíček)
+——————————————————————————————————— 
+20 KONTRAKTŮ (hotový balíček) - Matej 
  DELIVERY (8 karet)
 1. Rychlá zásilka Doruč zboží do libovolného města vzdáleného min. 8 polí → 3 VP + 2 peníze
 
